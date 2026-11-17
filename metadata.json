@@ -1,0 +1,8 @@
+{
+  "name": "PROYAAS (প্রয়াস) — Official Website & Management System",
+  "description": "Official educational website, student registration portal, room distribution, group messaging, and role-based management system for Proyash, Tehatta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
